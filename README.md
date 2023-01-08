@@ -1,8 +1,8 @@
 # Development
 
-**Current State:** 
-Version 0.1.5.1
-Showcase: YOUTUBELINKHERE
+**Current State:**   
+Version 0.1.5.1  
+Showcase: YOUTUBELINKHERE  
 
 ---
 ## Links:
